@@ -46,7 +46,7 @@ export function Home() {
       </HStack>
 
       <VStack width="100%" mt={30}>
-        <Text fontFamily="body" fontSize={15} fontWeight="medium" color="title.500">
+        <Text fontFamily="body" fontSize={15} fontWeight="medium" color="title.500" mb={4}>
           Your tasks
         </Text>
 
